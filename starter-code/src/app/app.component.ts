@@ -1,4 +1,7 @@
 import { Component } from '@angular/core';
+import { Log } from './services/AccessControlLog.service';
+
+
 
 @Component({
   selector: 'app-root',
